@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#eee8d9"/>
+  <rect x="24" y="24" width="552" height="1152" rx="18" fill="#fff" stroke="#b8aa8e" stroke-width="4"/>
+  <rect x="624" y="24" width="552" height="1152" rx="18" fill="#fff" stroke="#b8aa8e" stroke-width="4"/>
+  <image x="42" y="126" width="516" height="880" preserveAspectRatio="xMidYMid meet" xlink:href="rhine-map.png"/>
+  <image x="642" y="126" width="516" height="880" preserveAspectRatio="xMidYMid meet" xlink:href="danube-map.png"/>
+  <rect x="42" y="42" width="516" height="72" rx="8" fill="#234f43"/>
+  <rect x="642" y="42" width="516" height="72" rx="8" fill="#234f43"/>
+  <text x="300" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#fff">RHINE RIVER</text>
+  <text x="900" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#fff">DANUBE RIVER</text>
+  <text x="300" y="1120" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#59635d">Western &amp; Central Europe</text>
+  <text x="900" y="1120" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#59635d">Central &amp; Eastern Europe</text>
+</svg>
